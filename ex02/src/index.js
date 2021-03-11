@@ -1,14 +1,12 @@
-function main(){
-    
-    var myRes = 75;
+function main() {
+  var myRes = 75;
 
-    // Only change code below this line
-    myRes++;
-    // Only change code above this line
+  // Only change code below this line
+  myRes++;
+  // Only change code above this line
 
-    return myRes;
-
+  return myRes;
 }
 
-console.log(main());         
+console.log(main());
 module.exports = main;
